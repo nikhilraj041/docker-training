@@ -1,7 +1,7 @@
 # docker-training
 Docker Training Material
 
-Slide: https://docs.google.com/presentation/d/1glqYc4bGakrr3BgmQK3s6gqyHcP9_M0ii6ZS4n8orwk/edit?usp=sharing
+Slide: https://docs.google.com/presentation/d/1fd8l5xLB6kVP55SWFwX52oca6OENnzhtjn5DYtJD5NY/edit?usp=sharing
 
 Activities to try:
 * **Running a docker image:**
